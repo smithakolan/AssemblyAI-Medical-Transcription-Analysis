@@ -10,6 +10,7 @@ Transform how medical information is captured and analyzed with this AI-driven t
 - **PHI Identification:** Securely handle sensitive information by detecting protected health information within transcripts.
 
 ## How to Use:
+
 Pre-requirements: Your api must be the upgraded plan.
 
 - **Set the api key**: In the constant.py file, Input your own api key
