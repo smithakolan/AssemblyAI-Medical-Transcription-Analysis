@@ -93,4 +93,4 @@ def handle_toggle_transcription():
             threading.Thread(target=transcribe_real_time).start()
 
 if __name__ == '__main__':
-    socketio.run(app, debug=True)
+    socketio.run(app, debug=False, allow_unsafe_werkzeug= True)

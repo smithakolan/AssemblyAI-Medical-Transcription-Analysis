@@ -10,7 +10,13 @@ Transform how medical information is captured and analyzed with this AI-driven t
 - **PHI Identification:** Securely handle sensitive information by detecting protected health information within transcripts.
 
 ## How to Use:
-Follow the provided guide to set up your development environment, integrate the necessary APIs, and build your medical transcription application.
+Pre-requirements: Your api must be the upgraded plan.
+
+- **Set the api key**: In the constant.py file, Input your own api key
+- **Set up the all environment packages**: pip install requirements.txt
+- **Run the app: python app.py
+
+### Enjoy yourself.
 
 ## Call to Action:
 👉 **[Sign up for AssemblyAI's API](https://www.assemblyai.com/?utm_source=github&utm_medium=referral&utm_campaign=smitha)** and take your medical transcription projects to the next level with AI-powered transcription and analysis.
